@@ -41,3 +41,14 @@
 		transform: none !important;
 		opacity: 1 !important;
 	}
+
+	.image-wrapper {
+		float: right;
+		margin-left: 20px; /* Adjust the margin as needed */
+	}
+	
+	.right-image {
+		max-width: 100%; /* Ensures the image scales appropriately */
+		height: auto;
+	}
+	
